@@ -1,0 +1,61 @@
+body {
+	font-size:24px;
+	z-index: 0;
+	width:960px;
+	margin: 12px auto;
+	text-align: center;
+}
+
+header {
+	background-color: #ccc;
+	text-align: center;
+	font-size:	24px;
+	padding:24px 0;
+	margin-bottom: 12px;
+}
+
+.nav {
+	width:33.3333333333%;
+	float: left;
+	display: inline;
+	text-align: center;
+	padding: 24px 0;
+	background-color: #666;
+	color: white;
+}
+
+.light {
+	background-color:#888;
+}
+
+.container {
+	background-color: #eee;
+	height: 250px;
+	padding:50px 0;
+}
+
+.aside {
+	width:30%;
+	background-color: #fff;
+	margin:24px;
+	z-index: 100;
+	height:200px;
+	float:left;
+	text-align: center;
+}
+
+
+.aqua {
+	text-align: center;
+	background-color: #6ea3da;
+	padding: 24px 0;
+	bottom: 50%;
+	margin-top: 80px;
+}
+
+footer {
+	background-color: #ccc;
+	text-align: center;
+	padding: 24px 0;
+	margin-top: 12px;
+}
